@@ -16,7 +16,8 @@ Major Project
 
   ## npm run dev
 
-  Frontend Varriables : 
+  Frontend Variables : 
+  
   REACT_APP_SERVER_DOMAIN = <backend url>
   REACT_APP_ADMIN_PANEL = <admin email id>
   REACT_APP_STRIPE_PUBLIC_KEY = <stripe public key>
