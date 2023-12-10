@@ -28,7 +28,7 @@
 - Allow users to place orders.
 - Allow admin users to manage orders.
 
-  ## Architecture-
+## Architecture-
 
 The food delivery app is built using the MERN stack. The app consists of several components, including the Home screen,My Orders screen, Cart screen, Login and Logout screen and Admin screen. 
 
